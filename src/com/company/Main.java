@@ -20,7 +20,7 @@ public class Main {
                 "a la tienda de la esquina por una cocacola. " +
                 "De repente entrará tu crush a la tienda, ignorándote " +
                 "por completo y le preguntará al tendero si hay Nutella.";
-        premios[2]= "en el 2,040 tú y tu familia huirán de Guatemala debido al debacle político y económico que ha provocado la dictadura" +
+        premios[2]= "en el 2,040 tú y tu familia huirán de Guatemala debido a la debacle político y económico que ha provocado la dictadura" +
                 "de Neto Bran y para cubrir los gastos venderás tu cuerpo a una corporación para que realice experimentos." +
                 "Te transformarán en un cyborg, lo que extenderá tu tiempo de vida por 500 años más, de los cuales utilizarás los primeros" +
                 "20 prestando servicio militar para ayudar a establecer un nuevo orden mundial.";
